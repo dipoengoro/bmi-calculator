@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="large_margin_dp">32dp</dimen>
+    <dimen name="corner_radius">20dp</dimen>
+    <dimen name="elevation">15dp</dimen>
+    <dimen name="medium_margin">16dp</dimen>
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="text_size">24sp</dimen>
+    <dimen name="big_text_size">40sp</dimen>
+    <dimen name="width_edit">150dp</dimen>
+    <dimen name="padding_dp">8dp</dimen>
+    <dimen name="medium_text_size">30sp</dimen>
+    <dimen name="small_text_size">20sp</dimen>
+</resources>

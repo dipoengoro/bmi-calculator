@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="text_weight">Berat Badan</string>
+    <string name="zero">0</string>
+    <string name="kilo">Kg</string>
+    <string name="text_height">Tinggi Badan</string>
+    <string name="centimeter">cm</string>
+    <string name="calculate">Hitung</string>
+    <string name="normal_index">(Rentang normal antara 18.5 – 24.9)</string>
+    <string name="result_under">Berat badan kurang</string>
+    <string name="result_normal">Normal</string>
+    <string name="result_over">Berat badan berebih</string>
+    <string name="result_obese">Obesitas</string>
+    <string name="height_blank">Mohon isi tinggi badan</string>
+    <string name="weight_blank">Mohon isi berat badan</string>
+    <string name="all_blank">Mohon isi semua form</string>
+</resources>

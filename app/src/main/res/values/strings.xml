@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="text_weight">Weight</string>
+    <string name="zero">0</string>
+    <string name="kilo">Kg</string>
+    <string name="text_height">Height</string>
+    <string name="centimeter">cm</string>
+    <string name="calculate">Calculate</string>
+    <string name="normal_index">(Normal range is 18.5 – 24.9)</string>
+    <string name="result_under">Underweight</string>
+    <string name="result_normal">Normal</string>
+    <string name="result_over">Overweight</string>
+    <string name="result_obese">Obese</string>
+    <string name="height_blank">Please fill the height</string>
+    <string name="weight_blank">Please fill the height</string>
+    <string name="all_blank">Please fill the height</string>
+</resources>
