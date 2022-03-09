@@ -1,7 +1,5 @@
 package id.dipoengoro.bmicalculator.ext
 
-import android.content.Context
-import android.widget.Toast
 import kotlin.math.pow
 import kotlin.math.roundToInt
 
